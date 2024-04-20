@@ -1,8 +1,7 @@
-# Chat with MySQL AI Assistant
+# MySQL AI Assistant
 
 This project implements a Streamlit-based application that allows users to interact with a MySQL database using natural language queries. The application features an AI assistant capable of interpreting user queries, generating corresponding SQL queries, executing them on the database, and presenting the results back to the user in a conversational format.
 
-https://github.com/saha-trideep/Chat-With-SQL-Database/assets/115859105/fc1b39e9-d28f-43ad-be78-57b3c2982333
 
 ## Table of Contents
 
